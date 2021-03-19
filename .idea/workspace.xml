@@ -17,8 +17,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../watcher.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616146828483</updated>
-      <workItem from="1616146830224" duration="81000" />
+      <workItem from="1616146830224" duration="792000" />
     </task>
     <servers />
   </component>
@@ -43,6 +49,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2472" y="238" key="#Deployment" timestamp="1616147184214">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2472" y="238" key="#Deployment/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1616147184214" />
     <state x="2549" y="358" key="EditFileWatcherDialog" timestamp="1616146919251">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
